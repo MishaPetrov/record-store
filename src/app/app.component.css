@@ -18,10 +18,14 @@
   text-shadow: 2 2 0 1 #000;
 }
 
-a {
+.jumbotron a {
   color: #fff !important;
 }
 
 .navbar-right {
   font-size: 1.4em !important;
+}
+
+footer {
+  margin-top: 40px;
 }
