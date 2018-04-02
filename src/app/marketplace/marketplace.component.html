@@ -6,7 +6,7 @@
     <div *ngIf="currentRoute === '/admin'">
       {{album.description}}
       <hr>
-      <app-edit-album></app-edit-album>
+      <app-edit-album [selectedAlbum]="album"></app-edit-album>
     </div>
   </div>
 </div>

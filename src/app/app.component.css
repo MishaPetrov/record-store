@@ -1,0 +1,27 @@
+.jumbotron {
+  background:
+    linear-gradient(
+      rgba(0, 0, 0, 0.35),
+      rgba(0, 0, 0, 0.45)
+    ),
+    url("https://78.media.tumblr.com/355e8d1e4c33d69180cb27b6905ad2c3/tumblr_on0ulapBp41s73uc3o1_500.gif");
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  color: #fff !important;
+  padding-left: 3vw;
+  padding-right: 3vw;
+}
+
+#logo {
+  font-size: 2em !important;
+  text-shadow: 2 2 0 1 #000;
+}
+
+a {
+  color: #fff !important;
+}
+
+.navbar-right {
+  font-size: 1.4em !important;
+}
